@@ -1,0 +1,6 @@
+add_subdirectory(magnetic_field)
+add_subdirectory(particle)
+add_subdirectory(sceneview)
+add_subdirectory(paramspanel)
+add_subdirectory(simulation)
+add_subdirectory(controller)
